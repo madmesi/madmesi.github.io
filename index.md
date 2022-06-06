@@ -6,15 +6,13 @@ Skilled in Linux, Kubernetes, Technical Documentation, and System architecture. 
 
 ### Work History
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 #############################################
 
 
 ### 2021-06 - 2022-02
 DevOps Engineer
-Fidibo
+**"Fidibo"** : https://www.linkedin.com/company/fidibo/
 • CI/CD: - Unit test written by developers inside pipeline - Code quality
 with SonarQube - If passed deployed to Kubernetes
 • Key roles: responsible for: deployment, pipelines, staging
@@ -27,7 +25,7 @@ docker-compose (stage, dev), Kubernetes (stage env), Linux server
 
 ### 2020-02 - 2021-06
 DevOps Engineer
-**"Vasl” Co**
+**"Vasl” Co** : https://www.linkedin.com/company/vasl/
 1) API Gateway / API / GSB Manager, 2) BAAS (backend as a service)
 • Backend language: Java
 • Database: MongoDB cluster
@@ -48,7 +46,7 @@ with these companies):
 
 ### 2018-02 - 2019-09
 Junior System Administrator
-Khallagh Borhan
+Khallagh Borhan: https://www.linkedin.com/company/khallagh-borhan/
 2018:
 • Key technologies: 2018: - Nginx - Openstack Installation and
 Configuration: mainly nova/compute services (live migration, available
@@ -64,6 +62,36 @@ keepalived
 #############################################
 ```
 
+### Project History:
+```
+#############################################
+
+
+### 2019-12 – 2020-02
+DevOps Engineer
+Alef Ye (https://www.linkedin.com/company/alef-ye/)
+• Backend Language: Java
+• Nginx
+• Kubernetes
+• Docker
+• Gitlab for code repository
+• Gitlab-ci for pipelines
+
+
+#############################################
+
+
+### 2021-01 – 2022-04
+DevOps Engineer
+Personal Contractor
+• Backend Language: PHP / Golang
+• Gitlab-ci
+• NGINX
+• Heavy nginx configuration / Compile / RTMP / HLS 
+
+
+#############################################
+```
 
 ### Education
 2009- 2015
