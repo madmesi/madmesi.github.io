@@ -47,11 +47,13 @@ with these companies):
 ### 2018-02 - 2019-09
 Junior System Administrator
 Khallagh Borhan: https://www.linkedin.com/company/khallagh-borhan/
+
 2018:
 • Key technologies: 2018: - Nginx - Openstack Installation and
 Configuration: mainly nova/compute services (live migration, available
 zone) - Beginner docker user - Beginner VMware user
 • Junior Infrastructure / Sysadmin
+
 2019:
 • Kubernetes Infrastructure: - Maintaining Infrastructure - Monitoring
 Beginer with Prometheus - High availability beginner with haproxy and
