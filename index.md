@@ -9,9 +9,25 @@ Skilled in Linux, Kubernetes, Technical Documentation, and System architecture. 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-2020-02 - 2021-06
+#############################################
+
+
+### 2021-06 - 2022-02
 DevOps Engineer
-Vasl” Co
+Fidibo
+• CI/CD: - Unit test written by developers inside pipeline - Code quality
+with SonarQube - If passed deployed to Kubernetes
+• Key roles: responsible for: deployment, pipelines, staging
+• Key technologies: nginx (production env), docker (production env),
+docker-compose (stage, dev), Kubernetes (stage env), Linux server
+
+
+#############################################
+
+
+### 2020-02 - 2021-06
+DevOps Engineer
+**"Vasl” Co**
 1) API Gateway / API / GSB Manager, 2) BAAS (backend as a service)
 • Backend language: Java
 • Database: MongoDB cluster
@@ -23,15 +39,50 @@ nginx
 • Contract based company, which held contracts with (indirectly working
 with these companies):
 * Iranian Ministry of Health (DITAS Service)
-* PGSB (Iranian Information Technology's offi
+* PGSB (Iranian Information Technology's office
+
+
+
+#############################################
+
+
+### 2018-02 - 2019-09
+Junior System Administrator
+Khallagh Borhan
+2018:
+• Key technologies: 2018: - Nginx - Openstack Installation and
+Configuration: mainly nova/compute services (live migration, available
+zone) - Beginner docker user - Beginner VMware user
+• Junior Infrastructure / Sysadmin
+2019:
+• Kubernetes Infrastructure: - Maintaining Infrastructure - Monitoring
+Beginer with Prometheus - High availability beginner with haproxy and
+keepalived
+
+
+
+#############################################
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Education
+2009- 2015
+Bachelor of Science – Oil Drilling Engineering
+Islamic Azad University Science and Research Branch
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madmesi/madmesi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Skills
+Problem solving
+Project planning
+Hardware and software installation
+Program testing software
+Technical Analysis
+Software applications
+Virtualization technologies
+IT solution development
 
-### Support or Contact
+### LANGUAGES 
+English / Persian
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Job priorities
+Healthy environment / Gitlab / Public cloud / Linux Servers / Docker and compose
+
