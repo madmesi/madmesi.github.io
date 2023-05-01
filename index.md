@@ -10,6 +10,30 @@ Skilled in Linux, Kubernetes, Technical Documentation, and System architecture. 
 #############################################
 
 
+### 2022-11 - 2023-04
+DevOps Engineer
+**"Bitmax"** : https://bitmax.ir
+• CI/CD: - Bamboo CI/CD + Bitbucket + Unit test written by developers inside pipeline - Code quality
+with SonarQube - If passed deployed to Kubernetes
+• Key roles: responsible for: deployment, pipelines, staging, Infrastructure
+• Key technologies: Vcenter, ESXi, OPNsense, nginx, docker, Kubernetes, Postgresql, Linux server
+
+
+#############################################
+
+
+### 2022-03 - 2022-09
+DevOps Engineer
+**"Hasti Innovative Trading (Golrang)"** : https://hasti.co
+• CI/CD: - Azure DevOps + Unit test written by developers inside pipeline - Code quality
+with SonarQube - If passed deployed with docker-compose
+• Key roles: responsible for: deployment, pipelines, staging
+• Key technologies: nginx, docker, docker-compose (stage, dev), Linux server
+
+
+#############################################
+
+
 ### 2021-06 - 2022-02
 DevOps Engineer
 **"Fidibo"** : https://www.linkedin.com/company/fidibo/
