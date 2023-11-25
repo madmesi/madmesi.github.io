@@ -104,52 +104,53 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Mohammad Meskarian"
+  avatar           : /assets/images/69884303.png
+#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Team-player, motivated, Skilled and Enthusiastic DevOps Engineer with at least five years of experience in an agile and collaborative environment. My demonstrated history of working in the information technology services industry has gained me valuable assets that make me a team player. I can take software applications from 0 to 100 and make them highly available, maintainable, and monitorable. Proficient in Linux, Kubernetes, Translation, and System architecture. I am Currently working as a DevOps Engineer. I am Willing to take responsibility to make myself accountable."
+  location         : "Iran/Tehran"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:mohammad@meskarian.ir"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      # url: "https://your-website.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url: "https://twitter.com/"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/madmesi"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url:
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: github.com/madmesi
+#    - label: "GitLab"
+#      icon: "fab fa-fw fa-gitlab"
+#      # url:
+#    - label: "Bitbucket"
+#      icon: "fab fa-fw fa-bitbucket"
+#      # url:
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      # url:
 
 
 # Reading Files
