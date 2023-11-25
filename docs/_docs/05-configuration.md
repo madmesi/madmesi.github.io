@@ -896,10 +896,10 @@ Used as the defaults for defining what appears in the author sidebar.
 
 ```yaml
 author:
-  name     : "Your Name"
+  name     : "Mohammad Meskarian"
   avatar   : "/assets/images/bio-photo.jpg"
   bio      : "My awesome biography constrained to a sentence or two goes here."
-  location : "Somewhere, USA"
+  location : "Tehran, Iran"
 ```
 
 Author links are all optional, include the ones you want visible under the `author.links` array.
