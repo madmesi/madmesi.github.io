@@ -5,7 +5,7 @@ categories:
   - code
 last_modified_at: 2023-11-11T16:48:34-05:00
 ---
-# What is Docker?
+
 Docker is an open platform for developing, shipping, and running applications. It allows developers to build, package, and distribute their applications in a format called a container. This approach has gained popularity in recent years due to its portability, efficiency, and flexibility.
 
 The technology works by creating a container image that contains all the dependencies needed for the application to run. This container can then be deployed on any system that has Docker installed, ensuring consistent behavior across different environments.
@@ -25,6 +25,7 @@ Scalability: Docker makes it easy to create multiple containers from a single im
 Version Control: Docker allows for easy management of different versions of an application and its dependencies, improving development efficiency and stability.
 
 
+
 # What happens after running docker run?
 
 The Docker Engine will try to pull the image if it is not already available locally. If it can't find the image, it will raise an error and exit.
@@ -38,3 +39,10 @@ The Docker Engine will also map any exposed ports of the container to the host m
 The Docker Engine will keep the container running until the application running inside the container exits or the container is manually stopped using the docker stop command.
 
 After the Docker Engine starts the container, it will monitor the container's state and take appropriate action based on the container's status. For example, if the container crashes or stops, the Docker Engine will automatically remove the container to free up system resources. Additionally, if the Docker Engine itself is stopped, it will stop all running containers as well.
+
+
+```mermaid
+graph
+    Docker looks for the image on this computer. --> Is it installed? --> if not, Docker searches Docker Hub for the image. --> Is it on Docker Hub? --> If Yes, Docker downloads the image. --> The image layers are installed on this computer. --> Docker creates a new container and starts the program. --> The container is running!
+     id1([docker run]) --> Docker looks for the image on this computer.
+```
