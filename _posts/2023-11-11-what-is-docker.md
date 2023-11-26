@@ -45,7 +45,7 @@ After the Docker Engine starts the container, it will monitor the container's st
 flowchart LR
     A [Docker looks for the image on this computer.] --> B(Is it installed?)
     B --> | No? | C(Docker searches Docker Hub for the image.) 
-    C --> D(Is it on Docker Hub?) --> 
+    C --> D(Is it on Docker Hub?)
     D --> | Yes | E(Docker downloads the image.) 
     E --> F(The image layers are installed on this computer.) 
     G --> H(Docker creates a new container and starts the program.) 
