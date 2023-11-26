@@ -41,6 +41,23 @@ The Docker Engine will keep the container running until the application running 
 After the Docker Engine starts the container, it will monitor the container's state and take appropriate action based on the container's status. For example, if the container crashes or stops, the Docker Engine will automatically remove the container to free up system resources. Additionally, if the Docker Engine itself is stopped, it will stop all running containers as well.
 
 
-```graph
-    Docker looks for the image on this computer. --> Is it installed? --> if not, Docker searches Docker Hub for the image. --> Is it on Docker Hub? --> If Yes, Docker downloads the image. --> The image layers are installed on this computer. --> Docker creates a new container and starts the program. --> The container is running!
+```mermaid
+flowchart LR
+    A [Docker looks for the image on this computer.] --> B(Is it installed?)
+    B --> | No? | C(Docker searches Docker Hub for the image.) 
+    C --> D(Is it on Docker Hub?) --> 
+    D --> | Yes | E(Docker downloads the image.) 
+    E --> F(The image layers are installed on this computer.) 
+    G --> H(Docker creates a new container and starts the program.) 
+    H --> I(The container is running!)
+```
+
+
+
+```mermaid
+flowchart LR
+    A[Hard] -->|Text| B(Round)
+    B --> C{Decision}
+    C -->|One| D[Result 1]
+    C -->|Two| E[Result 2]
 ```
