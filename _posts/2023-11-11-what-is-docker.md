@@ -43,5 +43,4 @@ After the Docker Engine starts the container, it will monitor the container's st
 
 ```graph
     Docker looks for the image on this computer. --> Is it installed? --> if not, Docker searches Docker Hub for the image. --> Is it on Docker Hub? --> If Yes, Docker downloads the image. --> The image layers are installed on this computer. --> Docker creates a new container and starts the program. --> The container is running!
-     id1([docker run]) --> Docker looks for the image on this computer.
 ```
